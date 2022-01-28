@@ -1,0 +1,9 @@
+{
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "notebook",
+  "workspaceFolder": "/home/jovyan/work",
+  "extensions": ["ms-python.python"],
+  "settings": {
+    "python.pythonPath": "/opt/conda/bin/python"
+  }
+}
